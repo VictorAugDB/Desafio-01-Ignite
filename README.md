@@ -10,4 +10,4 @@
 ### Execute o projeto
 > yarn dev
 
-![github-small](https://drive.google.com/file/d/1SRT3Slgm0oTmo_2hwWuE77DcJA8dBsC7/view?usp=sharing)
+![Captura de tela do projeto](https://github.com/VictorAugDB/Desafio-01-Ignite/blob/main/src/assets/images/desafio-01%20ignite.PNG)
